@@ -16,7 +16,7 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('home');
 });
-
+Auth::routes();
 
 Route::get('/fournisseur', [App\Http\Controllers\FourController::class, 'index'])->name('fournisseur');
 
