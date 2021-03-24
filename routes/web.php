@@ -65,3 +65,6 @@ Route::get('/about', function () {
 Route::get('/nav', function () {
     return view('nav');
 });
+Auth::routes();
+
+Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
