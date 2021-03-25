@@ -67,4 +67,4 @@ Route::get('/nav', function () {
 });
 
 
-Auth::route();
+Auth::routes();
