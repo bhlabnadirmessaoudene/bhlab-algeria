@@ -67,3 +67,5 @@ Route::get('/nav', function () {
 });
 
 
+Route::get('/product', [App\Http\Controllers\ProductController::class, 'index'])->name('product');
+Route::get('/product/{slug}', [App\Http\Controllers\ProductController::class, 'show'])->name('product.show');
