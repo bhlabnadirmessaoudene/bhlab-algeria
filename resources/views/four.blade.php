@@ -117,7 +117,7 @@
     
                                 <div class="wrap-text-blo1 p-t-35">
                                    <a href="https://www.abbott.com/"><h4 class="txt5 color0-hov trans-0-4 m-b-13">
-                                   abbott
+                                   ABBOTT
                                 	</h4></a>
     
                                     
@@ -153,7 +153,7 @@
                                 <div class="wrap-text-blo1 p-t-35">
                                    <a href="	
                                   https://www.werfen.com/"><h4 class="txt5 color0-hov trans-0-4 m-b-13">
-                                  Werfen
+                                  WERFEN
                                 	</h4></a>
     
                                     
@@ -208,7 +208,7 @@
     
                                 <div class="wrap-text-blo1 p-t-35">
                                    <a href="https://www.onelambda.com/"><h4 class="txt5 color0-hov trans-0-4 m-b-13">
-                                    OneLambda
+                                    ONELAMBDA
                                 	</h4></a>
     
                                     
@@ -278,7 +278,7 @@
     
                                 <div class="wrap-text-blo1 p-t-35">
                                    <a href="https://www.merckgroup.com/"><h4 class="txt5 color0-hov trans-0-4 m-b-13">
-                                    MERCK SARL
+                                    MERCK
                                 	</h4></a>
     
                                     

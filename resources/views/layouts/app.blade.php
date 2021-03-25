@@ -371,16 +371,16 @@
                                        
                                           <li class="subnav-item">
                                             <div class="contain"> 
-                                              <div class="filterDiv all"><a href="https://www.abbott.com/">abbott</a></div>
+                                              <div class="filterDiv all"><a href="https://www.abbott.com/">ABBOTT</a></div>
                                               <div class="filterDiv Immuno Analyses Chimie Clinique Immuno Hémathologie"><a href="https://www.orthoclinicaldiagnostics.com/">ORTHO CLINICAL DIAGNOSTICS</a></div>
-                                              <div class="filterDiv Auto Immunité Hémostase Acute Care"><a href=" https://www.werfen.com/">Werfen</a></div>
+                                              <div class="filterDiv Auto Immunité Hémostase Acute Care"><a href=" https://www.werfen.com/">WERFEN</a></div>
                                               <div class="filterDiv Immuno Analyses"><a href="https://www.diasorin.com/">DIASORIN </a></div>
                                               <div class="filterDiv Consommables"><a href=" https://www.capp.dk/">CAPP APS</a></div>
-                                              <div class="filterDiv Typage HLA"><a href="https://www.onelambda.com/">OneLambda</a></div>
+                                              <div class="filterDiv Typage HLA"><a href="https://www.onelambda.com/">ONELAMBDA</a></div>
                                               <div class="filterDiv Immuno Analyses Bio moléculaire"><a href="http://www.adaltis.net/">ADALTIS</a></div>
                                               <div class="filterDiv all"><a href="http://www.arkray.co.jp/">ARKRAY</a></div>
                                               <div class="filterDiv Bio moléculaire"><a href=" http://entrogen.com/web3/">ENTROGEN USA</a></div>
-                                              <div class="filterDiv Immuno Hémathologie"><a href="https://www.merckgroup.com/">MERCK SARL</a></div>
+                                              <div class="filterDiv Immuno Hémathologie"><a href="https://www.merckgroup.com/">MERCK</a></div>
                                               <div class="filterDiv Auto Immunité"><a href="http://www.d-tek.be/">D-TEK sa BELGIQUE</a></div>
                                               <div class="filterDiv Immuno chimie"><a href="https://www.bindingsite.com/">BINDING SITE</a></div>
                                               <div class="filterDiv Bio moléculaire"><a href="https://sacace.com/">SACACE BIOTECHNOLOGIES</a></div>
@@ -399,8 +399,7 @@
                                  
                                   <div class="col-5">
                                     <img src="{{ asset('image/paa.png') }}"  width="600" height="450" class=" mb-3" alt="test image">
-                                    <p>Plus de 15 marques pour répondre aux différents besoins de nos partenaire.</p>
-                                   
+                                    <p>Plus de 15 marques pour répondre aux différents besoins de nos partenaire.</p>                                   
                                   </div>
                                 </div>
                               </div>
