@@ -21,14 +21,7 @@ class RegisterController extends Controller
     | provide this functionality without requiring any additional code.
     |
     */
-    public function index()
-    {
-
-        
-        return view('auth.register');
-
-    }
-
+   
     use RegistersUsers;
 
     /**

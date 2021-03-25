@@ -18,13 +18,7 @@ class LoginController extends Controller
     | to conveniently provide its functionality to your applications.
     |
     */
-    public function index()
-    {
-
-        
-        return view('auth.login');
-
-    }
+  
 
     use AuthenticatesUsers;
 
