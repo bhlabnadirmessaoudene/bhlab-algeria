@@ -16,7 +16,7 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('home');
 });
-Auth::routes();
+
 
 Route::get('/fournisseur', [App\Http\Controllers\FourController::class, 'index'])->name('fournisseur');
 
@@ -65,6 +65,5 @@ Route::get('/about', function () {
 Route::get('/nav', function () {
     return view('nav');
 });
-Auth::routes();
 
-Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
+
