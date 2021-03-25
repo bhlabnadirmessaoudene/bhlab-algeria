@@ -286,6 +286,9 @@
                               <i class="fa fa-home"></i>
                             </a>
                            </li>
+                           <li class="nav-item">
+                            <a class="nav-link" href="{{ route('product') }}">{{ __('produits') }}</a>
+                        </li>
                            <li class="nav-item is-parent">
                             <a class="nav-link" href="{{route('about')}}" id="megamenu-dropdown-1" aria-haspopup="true" aria-expanded="false">
                               Présentation<i class="fa fa-angle-down"></i>
