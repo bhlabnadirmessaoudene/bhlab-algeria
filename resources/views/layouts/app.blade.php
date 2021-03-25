@@ -385,7 +385,7 @@
                                               <div class="filterDiv Immuno chimie"><a href="https://www.bindingsite.com/">BINDING SITE</a></div>
                                               <div class="filterDiv Bio moléculaire"><a href="https://sacace.com/">SACACE BIOTECHNOLOGIES</a></div>
                                               <div class="filterDiv all"><a href="https://www.bio-rad.com/">BIO-RAD</a></div>
-                                              <div class="filterDiv Hémathologie"><a href="https://www.horiba.com/"> HORIBA</a></div>
+                                              <div class="filterDiv Hémathologie"><a href="https://www.horiba.com/">HORIBA</a></div>
                                             </div>
                                           </li>
                                         </ul>
